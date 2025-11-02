@@ -1,4 +1,4 @@
-/* Program name: wk1Lab.cpp
+/* Program name: main.cpp
 * Author: Jeff Weimer
 * Date last updated: 10/30/2025
 * Purpose: intro
